@@ -8,7 +8,7 @@ Software Engineer
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/VigneshwartT?t=0wpjAFTos7NvJ3mnPFmfqw&s=09) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/vigneshwartt22t)
-- 🔗 [LinkedIn](www.linkedin.com/in/vigneshwartt22t)
+- 🔗 [LinkedIn](www.linkedin.com/in/vigneshwart-t-9576a5259)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I am a Batmitan Player
 
