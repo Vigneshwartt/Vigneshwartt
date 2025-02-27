@@ -2,7 +2,7 @@
 
 Software Engineer 
 <img align="right" width="370" height="290" src="https://media4.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.webp?cid=790b7611vrfesd41us2b0rthnethmwmwe97bywvi3ligw8kq&ep=v1_gifs_search&rid=giphy.webp&ct=g">
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on AI
 - 🤔 I’m looking for help with Placements in Tech Companies
 - 💬 Ask me about Tech
@@ -27,3 +27,10 @@ Software Engineer
 
 
 [![Vigneshwartt github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vigneshwartt&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+### Video Link
+
